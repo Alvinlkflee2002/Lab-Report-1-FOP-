@@ -1,0 +1,7 @@
+/lib/
+/out/
+/.idea/
+/src/com/company
+/src/LAB2
+
+*.iml
